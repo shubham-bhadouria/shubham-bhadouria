@@ -4,7 +4,7 @@ Glad to see you here! I'm a passionate learner who's always willing to learn and
 
 Currently, I am a Data Science Trainee at AlmaBetter, where I have gained proficiency in Python, SQL, Statistics, EDA, Machine Learning. Additionally, I have completed several capstone projects in the field and continue to work on more.
 
-🌱 I’m completed Full Stack Data Science
+🌱 In terms of education, I have successfully completed Full Stack Data Science training.
 
 👨🏻‍💻 Most of my projects are available on Github.
 
