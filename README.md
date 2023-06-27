@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shubham Bhadouria</h1>
 <h3 align="center">Get to know me on a personal and professional level. Learn about my passions, values, and the driving force behind my work. Discover how my unique background and interests shape my approach to problem-solving and creativity.</h3>
-<img align="right" alt="Coding" width="350" src="https://github.com/shubham-bhadouria/shubham-bhadouria/assets/103518257/05be700e-3aba-459b-abf9-aed35435ec2a">
+<img align="right" alt="Coding" width="350" src="https://github.com/shubham-bhadouria/shubham-bhadouria/assets/103518257/76f20a3c-db5b-444f-859d-5874fffb6777">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-bhadouria&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-bhadouria" /> </p>
 
 - 🔭 I’m currently working **@ AlmaBetter**
